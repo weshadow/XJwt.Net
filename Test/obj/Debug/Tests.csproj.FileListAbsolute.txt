@@ -1,0 +1,2 @@
+E:\work\XJwt.Net\Test\obj\Debug\Tests.csprojAssemblyReference.cache
+E:\work\XJwt.Net\Test\obj\Debug\Tests.csproj.CoreCompileInputs.cache

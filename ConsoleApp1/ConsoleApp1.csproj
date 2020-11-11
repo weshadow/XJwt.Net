@@ -48,5 +48,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\XJwt.Net\XJwt.Net.csproj">
+      <Project>{2f0419fd-ec56-4554-83ac-7f108e329bbc}</Project>
+      <Name>XJwt.Net</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

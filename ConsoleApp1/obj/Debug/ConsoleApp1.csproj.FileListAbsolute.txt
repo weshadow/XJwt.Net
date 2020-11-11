@@ -5,3 +5,10 @@ F:\work\webAPI\WebApi\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.
 F:\work\webAPI\WebApi\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 F:\work\webAPI\WebApi\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 F:\work\webAPI\WebApi\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\work\XJwt.Net\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\work\XJwt.Net\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\work\XJwt.Net\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\work\XJwt.Net\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\work\XJwt.Net\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\work\XJwt.Net\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\work\XJwt.Net\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
