@@ -1,0 +1,7 @@
+F:\work\webAPI\WebApi\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\work\webAPI\WebApi\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\work\webAPI\WebApi\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\work\webAPI\WebApi\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+F:\work\webAPI\WebApi\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\work\webAPI\WebApi\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\work\webAPI\WebApi\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
