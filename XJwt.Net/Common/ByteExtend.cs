@@ -6,6 +6,7 @@
  */
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 
@@ -16,6 +17,24 @@ namespace XJwt.Net.Common
     /// </summary>
     public static class ByteExtend
     {
+        /// <summary>
+        /// Java Base64.getEncoder().encode(byte[])
+        /// </summary>
+        /// <param name="_"></param>
+        /// <returns></returns>
+        public static byte[] EncoderJavaBase64(this byte[] _)
+        {
+            return Encoding.UTF8.GetBytes(Convert.ToBase64String(_));
+        }
+        /// <summary>
+        /// Java Base64.getDecoder().decode(byte[])
+        /// </summary>
+        /// <param name="_"></param>
+        /// <returns></returns>
+        public static byte[] DecoderJavaBase64(this byte[] _)
+        {
+            return Convert.FromBase64String(Encoding.UTF8.GetString(_));
+        }
         /// <summary>
         /// long转sbyte字节
         /// </summary>
@@ -28,6 +47,7 @@ namespace XJwt.Net.Common
                 result[i] = (sbyte)((_ >> (8 * i)) & 0xFF);
             return result;
         }
+
         /// <summary>
         /// 
         /// </summary>
@@ -71,6 +91,20 @@ namespace XJwt.Net.Common
         /// <param name="order"></param>
         /// <returns></returns>
         public static sbyte[] Order(this sbyte[] _, ByteOrder order)
+        {
+            //默认是否是小端，
+            if ((BitConverter.IsLittleEndian && order == ByteOrder.BIG_ENDIAN) ||
+                (!BitConverter.IsLittleEndian && order == ByteOrder.LITTLE_ENDIAN))
+                Array.Reverse(_);
+            return _;
+        }
+        /// <summary>
+        /// 大端小端转换
+        /// </summary>
+        /// <param name="_"></param>
+        /// <param name="order"></param>
+        /// <returns></returns>
+        public static byte[] Order(this byte[] _, ByteOrder order)
         {
             //默认是否是小端，
             if ((BitConverter.IsLittleEndian && order == ByteOrder.BIG_ENDIAN) ||

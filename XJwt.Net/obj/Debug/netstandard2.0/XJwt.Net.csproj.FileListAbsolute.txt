@@ -7,3 +7,12 @@ E:\work\XJwt.Net\XJwt.Net\bin\Debug\netstandard2.0\XJwt.Net.dll
 E:\work\XJwt.Net\XJwt.Net\bin\Debug\netstandard2.0\XJwt.Net.pdb
 E:\work\XJwt.Net\XJwt.Net\obj\Debug\netstandard2.0\XJwt.Net.dll
 E:\work\XJwt.Net\XJwt.Net\obj\Debug\netstandard2.0\XJwt.Net.pdb
+F:\work\XJwt.Net\XJwt.Net\bin\Debug\netstandard2.0\XJwt.Net.deps.json
+F:\work\XJwt.Net\XJwt.Net\bin\Debug\netstandard2.0\XJwt.Net.dll
+F:\work\XJwt.Net\XJwt.Net\bin\Debug\netstandard2.0\XJwt.Net.pdb
+F:\work\XJwt.Net\XJwt.Net\obj\Debug\netstandard2.0\XJwt.Net.csprojAssemblyReference.cache
+F:\work\XJwt.Net\XJwt.Net\obj\Debug\netstandard2.0\XJwt.Net.AssemblyInfoInputs.cache
+F:\work\XJwt.Net\XJwt.Net\obj\Debug\netstandard2.0\XJwt.Net.AssemblyInfo.cs
+F:\work\XJwt.Net\XJwt.Net\obj\Debug\netstandard2.0\XJwt.Net.csproj.CoreCompileInputs.cache
+F:\work\XJwt.Net\XJwt.Net\obj\Debug\netstandard2.0\XJwt.Net.dll
+F:\work\XJwt.Net\XJwt.Net\obj\Debug\netstandard2.0\XJwt.Net.pdb
