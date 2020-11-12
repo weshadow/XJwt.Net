@@ -1,2 +1,6 @@
 /.vs
 /packages
+/XJwt.Net/obj
+/XJwt.Net/bin
+/Test/bin
+/Test/obj
