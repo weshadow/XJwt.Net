@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "F:\\work\\XJwt.Net\\XJwt.Net\\XJwt.Net.csproj": {}
+    "E:\\work\\XJwt.Net\\XJwt.Net\\XJwt.Net.csproj": {}
   },
   "projects": {
-    "F:\\work\\XJwt.Net\\XJwt.Net\\XJwt.Net.csproj": {
+    "E:\\work\\XJwt.Net\\XJwt.Net\\XJwt.Net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\work\\XJwt.Net\\XJwt.Net\\XJwt.Net.csproj",
+        "projectUniqueName": "E:\\work\\XJwt.Net\\XJwt.Net\\XJwt.Net.csproj",
         "projectName": "XJwt.Net",
-        "projectPath": "F:\\work\\XJwt.Net\\XJwt.Net\\XJwt.Net.csproj",
+        "projectPath": "E:\\work\\XJwt.Net\\XJwt.Net\\XJwt.Net.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\work\\XJwt.Net\\XJwt.Net\\obj\\",
+        "outputPath": "E:\\work\\XJwt.Net\\XJwt.Net\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "e:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
