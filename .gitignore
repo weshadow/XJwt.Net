@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 /packages
 /ConsoleApp1
 /XJwt.Net/obj
 /XJwt.Net/bin
 /ConsoleApp2
 /WebApi
+=======
+/.vs
+/packages
+/XJwt.Net/obj
+/XJwt.Net/bin
+/Test/bin
+/Test/obj
+>>>>>>> 5cead970df776b740b5eee3bac4fa74988c71543

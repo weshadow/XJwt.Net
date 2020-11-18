@@ -187,7 +187,6 @@ namespace XJwt.Net
         /// <returns></returns>
         public string verifyAndDecrypt(string token)
         {
-            //return null;
             /*1、验证token有效性*/
 
             var payload = verify(token);
@@ -214,6 +213,7 @@ namespace XJwt.Net
             if (i < 0 || token[i] != DOT)
                 throw new ArgumentException("token不正确", nameof(token));
             var sig = token.Substring(i);
+            //TODO:验证没有做完
             //反向sign验证
             var s = token.IndexOf(DOT);//payload开始位置
 
