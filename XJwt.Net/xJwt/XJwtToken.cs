@@ -146,7 +146,7 @@ namespace XJwt.Net
             //return null;
             MemoryStream byteStream = new MemoryStream();
             /*payload部分*/
-            byte[] longPart = _r.NextLong().ToByteArray();
+            byte[] longPart = _r.NextLong().ToByteArray().Order(ByteOrder.BIG_ENDIAN);
 
             //var byteStream = new MemoryStream();
             byteStream.Write(longPart, 0, longPart.Length);
